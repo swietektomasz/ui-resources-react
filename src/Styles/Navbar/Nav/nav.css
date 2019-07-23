@@ -1,0 +1,20 @@
+@import '../../colors.css';
+
+.navbar__link {
+  color: var(--light-color);
+  display: block;
+  line-height: 20px;
+  padding: 8px 16px;
+  text-align: center;
+  text-decoration: none;
+  width: 100px;
+}
+
+.navbar__link:hover {
+  color: var(--primary-color);
+  opacity: var(--high-opacity);
+}
+
+.navbar__link__active {
+  color: var(--primary-color);
+}

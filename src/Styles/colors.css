@@ -1,0 +1,13 @@
+:root {
+  /* Primary colors */
+  --primary-color: #48af48;
+  --secondary-color: #95f495;
+  --tertiary-color: #98b598;
+  --light-color: #fefefe;
+  --dark-color: #0f210f;
+
+  /* Transparency Levels */
+  --high-opacity: 0.6;
+  --medium-opacity: 0.4;
+  --low-opacity: 0.1;
+}
