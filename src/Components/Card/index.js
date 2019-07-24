@@ -6,8 +6,8 @@ export default class Card extends Component {
   render() {
     return (
       <div className="card">
-        <img className="card__image" src={example1} alt="example1" width="300" />
-        <div className="card__container">
+        <img className="card__image" src={example1} alt="example1" />
+        <div className="card__content">
           <h4 className="card__title">Lorem Ipsum</h4>
           <p className="card_description">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eu quam lacus. Morbi
